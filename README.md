@@ -1,1 +1,1 @@
-- [Github](08_oz/github/)
+- [Github](github/)
